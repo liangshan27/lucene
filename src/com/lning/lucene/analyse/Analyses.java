@@ -1,4 +1,4 @@
-package cn.itcast.lucene.analyse;
+package com.lning.lucene.analyse;
 
 import java.io.IOException;
 
